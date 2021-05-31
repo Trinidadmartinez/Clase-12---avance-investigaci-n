@@ -29,14 +29,15 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
  
 * Características
 
-⋅⋅⋅Sin aleta dorsal··
--Cuerpo delgado, forma torpedo
--Negro con vientre blanco (división clara)
--Rostro corto y blanco
--Natación con saltos
--Cuerpo sale del agua con un ángulo bajo
--T A: 1.8 - 2.9 m (60 - 100 kg.)
--T C: 80 - 100 cm.
+     * Sin aleta dorsal
+     * Cuerpo delgado, forma torpedo
+     * Negro con vientre blanco (división clara)
+     * Rostro corto y blanco
+     * Natación con saltos
+     * Cuerpo sale del agua con un ángulo bajo
+     * T A: 1.8 - 2.9 m (60 - 100 kg.)
+     * T C: 80 - 100 cm.
+     
 
  #### 3. Conducta 
 ⋅⋅⋅ aquí.
