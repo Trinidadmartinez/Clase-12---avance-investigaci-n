@@ -2,13 +2,13 @@ DELFÍN LISO AUSTRAL
 ======
 
 ~~~
-### Integrantes / Roles: 
+Integrantes / Roles: 
 
-**Echeverria, Gabriela :**
-**Hrepic, Paula        :**
-**Jimenez, Eliana      :**
-**Martinez, Trinidad   :**
-**Soto, Cecy.          :**
+Echeverria, Gabriela :
+Hrepic, Paula        :
+Jimenez, Eliana      :
+Martinez, Trinidad   :
+Soto, Cecy.          :
 ~~~
 
 #### TEMA
