@@ -27,9 +27,9 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
  
  
  
-··* Características.··
+··* Características
 
-⋅⋅⋅Sin aleta dorsal
+⋅⋅⋅Sin aleta dorsal··
 -Cuerpo delgado, forma torpedo
 -Negro con vientre blanco (división clara)
 -Rostro corto y blanco
