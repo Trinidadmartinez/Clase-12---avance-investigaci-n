@@ -57,6 +57,8 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
 
 ![Comparación tamaños](img/tamaño.png) 
 
+<img src="img/tamaño.png" alt="Comparación tamaños" width="200"/>
+
  #### 3. Conducta 
 ⋅⋅⋅ aquí.
 
