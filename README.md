@@ -55,7 +55,7 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
      * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
      * Tamaño Cria: 80 - 100 cm.
 
-![Comparación tamaños](img/tamaño.png/200x150) 
+![Comparación tamaños](img/tamaño.png) 
 
  #### 3. Conducta 
 ⋅⋅⋅ aquí.
