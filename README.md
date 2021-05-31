@@ -2,7 +2,7 @@ DELFÍN LISO AUSTRAL
 ======
 
 ~~~
-Integrantes / Roles: 
+Integrantes / Roles
 
 Echeverria, Gabriela :
 Hrepic, Paula        :
