@@ -8,7 +8,7 @@ Echeverria, Gabriela :
 Hrepic, Paula        :
 Jimenez, Eliana      :
 Martinez, Trinidad   :
-Soto, Cecy.          :
+Soto, Cecy          :
 ~~~
 
 #### TEMA
