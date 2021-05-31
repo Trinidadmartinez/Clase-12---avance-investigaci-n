@@ -55,7 +55,7 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
      * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
      * Tamaño Cria: 80 - 100 cm.
 
-![comparación tamaño](http://via.placeholder.com/200x150 "Title is optional")
+![comparación tamaño](img/tamaño.png/300x250 "TAMAÑO")
      
 
  #### 3. Conducta 
@@ -66,3 +66,5 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
 [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
 [Inventario Nacional de especies Chilenas](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=3933&Version=1)
 [Centro de conservación Cetacea](https://ccc-chile.org/cetaceos/delfin-liso/)
+[Anatomía de los delfines](https://www-sciencedirect-com.pucdechile.idm.oclc.org/book/9780124072299/anatomy-of-dolphins)
+
