@@ -20,13 +20,13 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 | **Phyllum/División:**     | *Chordata* | **Familia:** |  *Delphinidae*     |
 | **Clase:**     |  *Mammalia*      |   **Género:** |  *Lissodelphis*    |
 
-#### Hábitat 
+1. #### Hábitat 
 ⋅⋅⋅ aquí
 
-#### Morfología
+2. #### Morfología
 ⋅⋅⋅ aquí
 
-#### Conducta 
+3. #### Conducta 
 ⋅⋅⋅ aquí
 
 
