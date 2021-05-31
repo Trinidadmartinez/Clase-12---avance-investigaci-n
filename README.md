@@ -21,7 +21,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 | **Clase:**     |  *Mammalia*      |   **Género:** |  *Lissodelphis*    |
 
  #### 1. Hábitat 
-...aquí.
+... aquí.
 
  #### 2. Morfología
 ⋅⋅⋅ aquí.
