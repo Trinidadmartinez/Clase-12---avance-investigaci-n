@@ -58,3 +58,5 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
 
 #### REFERENCIAS
 [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
+[Inventario Nacional de especies Chilenas](http://especies.mma.gob.cl/CNMWeb/Web/WebCiudadana/ficha_indepen.aspx?EspecieId=3933&Version=1)
+[Centro de conservación Cetacea](https://ccc-chile.org/cetaceos/delfin-liso/)
