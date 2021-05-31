@@ -6,7 +6,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 | Reino:      | *Animalia*         | Orden:  | *Cetartiodactyla* |
 | :------------- |:-----| :-----|:------------------|
 | **Phyllum/División:**     | *Chordata* | **Familia:** |  *Delphinidae*     |
-| **Clase:**     |  *Mammalia *      |   **Género:** |  *Lissodelphis*    |
+| **Clase:**     |  *Mammalia*      |   **Género:** |  *Lissodelphis*    |
 
 
 
