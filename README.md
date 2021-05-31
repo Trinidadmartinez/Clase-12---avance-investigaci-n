@@ -56,7 +56,7 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
      * Tamaño Cria: 80 - 100 cm.
 
 ![picture alt](https://cmmrleviathan.org/images/sp/mm_cet_fam6_sp12.jpg/200x150)
-     
+![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
  #### 3. Conducta 
 ⋅⋅⋅ aquí.
