@@ -19,8 +19,8 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 | :------------- |:-----| :-----|:------------------|
 | **Phyllum/División:**     | *Chordata* | **Familia:** |  *Delphinidae*     |
 | **Clase:**     |  *Mammalia*      |   **Género:** |  *Lissodelphis*    |
-
-![ilustracion delfin](img/d_liso_grande.png) 
+ 
+<img src="img/d_liso_grande.png" alt="ilustración delfín " width="500"  high="auto"/>
 
  #### 1. Hábitat 
 Los delfines lisos australes se encuentran sólo en aguas subantárticas templadas frías del hemisferio sur, en su mayoría entre los 30° S y 65° S. El límite sur
