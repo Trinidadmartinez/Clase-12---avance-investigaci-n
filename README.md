@@ -55,8 +55,7 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
      * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
      * Tamaño Cria: 80 - 100 cm.
 
-![picture alt](https://cmmrleviathan.org/images/sp/mm_cet_fam6_sp12.jpg/200x150)
-![picture alt](https://cmmrleviathan.org/images/sp/mm_cet_fam6_sp12.jpg/200x150 "Title is optional")
+![Comparación tamaños](img/tamaño.png/200x150) 
 
  #### 3. Conducta 
 ⋅⋅⋅ aquí.
