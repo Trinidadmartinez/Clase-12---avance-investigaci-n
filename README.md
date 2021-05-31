@@ -21,7 +21,18 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
 | **Clase:**     |  *Mammalia*      |   **Género:** |  *Lissodelphis*    |
 
  #### 1. Hábitat 
-... aquí.
+Los delfines lisos australes se encuentran sólo en aguas subantárticas templadas frías del hemisferio sur, en su mayoría entre los 30° S y 65° S. El límite sur
+en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
+la costa de los continentes, debido a las corrientes frías del hemisferio sur.
+
+![Mapa mundial del habitat del delfin](img/mapa-mundial.JPG)
+
+En la costa de Chile, los delfines lisos australes están
+presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
+primavera, siendo, al parecer las fuentes de alimentos el factor de migración (Jefferson et al. 1993,
+Lipsky 2008). En Chile, existen registros entre la II y V Región y entre la X y XII Región. 
+
+![Mapa Chileno del habitat del delfin](img/habitat-delfin.JPG)
 
  #### 2. Morfología
  
