@@ -50,8 +50,12 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
      * Rostro corto y blanco
      * Natación con saltos
      * Cuerpo sale del agua con un ángulo bajo
-     * T A: 1.8 - 2.9 m (60 - 100 kg.)
-     * T C: 80 - 100 cm.
+     
+* Tamaño:
+     * Tamaño Adulto: 1.8 - 2.9 m (60 - 100 kg.)
+     * Tamaño Cria: 80 - 100 cm.
+
+![comparación tamaño](http://via.placeholder.com/200x150 "Title is optional")
      
 
  #### 3. Conducta 
