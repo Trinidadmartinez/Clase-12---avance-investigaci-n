@@ -4,11 +4,11 @@ DELFÍN LISO AUSTRAL
 ~~~
 Integrantes / Roles
 
-Echeverria, Gabriela :
-Hrepic, Paula        :
-Jimenez, Eliana      :
-Martinez, Trinidad   :
-Soto, Cecy          :
+Echeverria, Gabriela : Investigación - poco ilustración
+Hrepic, Paula        : Ilustración - Investigación - Manualidades
+Jimenez, Eliana      : Ilustración - Investigación
+Martinez, Trinidad   : Programar - ilustración
+Soto, Cecy          : Ilustración - investigación - programación
 ~~~
 
 ## TEMA
@@ -22,26 +22,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
  
 <img src="img/d_liso_grande.png" alt="ilustración delfín " width="500"  high="auto"/>
 
- #### 1. Hábitat 
-Los delfines lisos australes se encuentran sólo en aguas subantárticas templadas frías del hemisferio sur, en su mayoría entre los 30° S y 65° S. El límite sur
-en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
-la costa de los continentes, debido a las corrientes frías del hemisferio sur.
-
-![Mapa mundial del habitat del delfin](img/habitat-mundial.JPG) (Esta provisorio, va un mapa ilustrado)
-
-En la costa de Chile, los delfines lisos australes están
-presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
-primavera, siendo, al parecer las fuentes de alimentos el factor de migración (Jefferson et al. 1993,
-Lipsky 2008). En Chile, existen registros entre la II y V Región y entre la X y XII Región. 
-
-![Mapa Chileno del habitat del delfin](img/habitat-delfin.JPG) 
-
-En el mapa se observan puntos rojos, los cuales representan avistamientos del delfin liso del sur, en zonas chilenas.
-
- #### 2. Morfología
- 
- 
- 
+ #### 1. Morfología
 * Características
 
      * Sin aleta dorsal
@@ -57,9 +38,27 @@ En el mapa se observan puntos rojos, los cuales representan avistamientos del de
      
 <img src="img/tamaño.png" alt="Comparación tamaños" width="500"/>
 
+ #### 2. Hábitat 
+Los delfines lisos australes se encuentran sólo en aguas subantárticas templadas frías del hemisferio sur, en su mayoría entre los 30° S y 65° S. El límite sur
+en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
+la costa de los continentes, debido a las corrientes frías del hemisferio sur.
+
+![Mapa mundial del habitat del delfin](img/habitat-mundial.JPG) (Esta provisorio, va un mapa ilustrado)
+
+En la costa de Chile, los delfines lisos australes están
+presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
+primavera, siendo, al parecer las fuentes de alimentos el factor de migración (Jefferson et al. 1993,
+Lipsky 2008). En Chile, existen registros entre la II y V Región y entre la X y XII Región. 
+
+![Mapa Chileno del habitat del delfin](img/habitat-delfin.JPG) 
+
+En el mapa se observan puntos rojos, los cuales representan avistamientos del delfin liso del sur, en zonas chilenas.
+
+
  #### 3. Conducta 
 ⋅⋅⋅ aquí.
 
+#### REFERENCIAS INFOGRÁFICAS
 
 #### REFERENCIAS
 [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
