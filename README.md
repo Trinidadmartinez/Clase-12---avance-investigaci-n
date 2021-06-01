@@ -62,8 +62,8 @@ Esta especie nada en grupos de dos a 1.000 individuos. Se asocian con otros cet�
 
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
-* [I'm an inline-style link](https://www.google.com)
-* [I'm an inline-style link](https://www.google.com)
+* [Godzilla: evolución de un monstruo](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolución tamaño (gráfico comparativo), sistema central.
+* [I'm an inline-style link](https://www.google.com)- 
 
 #### REFERENCIAS
 [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
