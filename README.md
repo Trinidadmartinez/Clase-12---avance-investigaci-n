@@ -22,6 +22,7 @@ NOMBRE CIENTÍFICO: Lissodelphis peronii (Lacépède, 1804). También llamado **
  
 <img src="img/d_liso_grande.png" alt="ilustración delfín " width="500"  high="auto"/>
  #### 1. Morfología
+ 
 * Características
 
      * Sin aleta dorsal
