@@ -43,7 +43,7 @@ Los delfines lisos australes se encuentran sólo en aguas subantárticas templad
 en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
 la costa de los continentes, debido a las corrientes frías del hemisferio sur.
 
-![Mapa mundial del habitat del delfin](img/habitat-mundial.JPG) (Esta provisorio, va un mapa ilustrado)
+![Mapa mundial del habitat del delfin](img/Mapa-mundial.png) (Esta provisorio, va un mapa ilustrado)
 
 En la costa de Chile, los delfines lisos australes están
 presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
@@ -62,8 +62,8 @@ Esta especie nada en grupos de dos a 1.000 individuos. Se asocian con otros cet�
 
 #### REFERENCIAS INFOGRÁFICAS
 * [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
-* [Godzilla: evolución de un monstruo](https://multimedia.scmp.com/infographics/culture/article/3012245/godzilla/index.html?src=arcade)- Inspiración caracteristicas morfológicas, evolución tamaño (gráfico comparativo), sistema central.
-* [I'm an inline-style link](https://www.google.com)- 
+* [I'm an inline-style link](https://www.google.com)
+* [I'm an inline-style link](https://www.google.com)
 
 #### REFERENCIAS
 [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
