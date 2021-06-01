@@ -43,7 +43,7 @@ Los delfines lisos australes se encuentran sólo en aguas subantárticas templad
 en general parece estar limitado por la convergencia antártica. Su rango se extiende más al norte por
 la costa de los continentes, debido a las corrientes frías del hemisferio sur.
 
-![Mapa mundial del habitat del delfin](img/Mapa-mundial.png) (Esta provisorio, va un mapa ilustrado)
+![Mapa mundial del habitat del delfin](img/Mapa-mundial.png)
 
 En la costa de Chile, los delfines lisos australes están
 presentes durante todo el año y se ha descubierto que migran hacia el norte durante el invierno y la
