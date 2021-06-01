@@ -60,9 +60,9 @@ Esta especie nada en grupos de dos a 1.000 individuos. Se asocian con otros cet�
 > _**Bow Riding** es cuando los delfines surfean en la ola creada por barcos y barcos. A medida que los barcos se mueven por el agua, crean una ola. Los delfines son impulsados ​​hacia adelante por la ola y, a menudo, giran y giran e incluso nadan boca abajo mientras se deslizan por el agua._
 
 #### REFERENCIAS INFOGRÁFICAS
-[They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)[- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.]
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link](https://www.google.com)
+* [They are very close... and you can’t escape them](https://multimedia.scmp.com/culture/article/cockroaches/)- Analisis morfológico, ciclo de vida, sistema digestivo, habitat, evolución.
+* [I'm an inline-style link](https://www.google.com)
+* [I'm an inline-style link](https://www.google.com)
 
 #### REFERENCIAS
 [Ficha de antecedentes de especie](http://www.mma.gob.cl/clasificacionespecies/fichas13proceso/fichas_PAC_13RCE/Lissodelphis_peronii_PAC_13RCE.pdf)
